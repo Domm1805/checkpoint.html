@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ab8585;
+  }
+  
+  ul.navbar li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  
+  ul.navbar li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section {
+    padding: 50px;
+    background-color: #f9f9f9c8;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
